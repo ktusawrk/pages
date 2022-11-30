@@ -7,10 +7,14 @@ Minusculos parem vitae
 ## Otro: Intentae
  
 A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
-  
+
+## Intentae Due
+
 An image, located within /images
 
 ![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
+
+## Agostini victoriae guzzimus
 
 * A bulletted list
 - alternative syntax 1
