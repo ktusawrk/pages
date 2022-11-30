@@ -1,10 +1,10 @@
-## Otro: Sobre Dolor
+# Otro: Sobre Dolor
 
 Dolor eterna est
 
 Minusculos parem vitae
 
-### Otro: Intentae
+## Otro: Intentae
  
 A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
   
