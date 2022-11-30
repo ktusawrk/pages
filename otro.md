@@ -2,8 +2,6 @@
 
 Dolor eterna est
 
-### Sobre de la rie
-
 Minusculos parem vitae
 
 #### Intentae
