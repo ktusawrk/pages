@@ -25,14 +25,3 @@ An image, located within /images
 2. ordered
 3. list
 
-# SobreSobre Dolor Ultimatae
-
-Corporae sano
-
-## Continuum
-
-Mens sana
-
-## Ars Nova
-
-Invitaetamus inviernamus
